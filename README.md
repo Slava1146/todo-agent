@@ -46,7 +46,9 @@ fix this. What worked:
    fresh, correct data instead of relying on tool calls.
 2. Tools are used only to change things (add, complete, reopen, delete, save).
 3. Every action has its own clearly described tool, so the model does not
-   improvise with the wrong one.## Requirements
+   improvise with the wrong one.
+
+## Requirements
 
 - Windows (the launcher is a `.bat` file; the Python code also runs on
   Mac/Linux)
